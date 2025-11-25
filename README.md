@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Loïs 👋
+🚀 About Me
 
-<!--
-**Dolphinchair/Dolphinchair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd-year student at Epitech, working on strengthening my skills through academic and personal projects. I'm a passionate software developer with experience in a wide range of technologies. I love building clean, efficient, and scalable applications. I'm always learning, experimenting, and pushing my skills further.
 
-Here are some ideas to get you started:
+🧠 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Development: React, HTML, TypeScript
+
+Backend & Systems: Go, C, C++
+
+Scripting & Tools: Python
+
+Functional Programming: Haskell
+
+🎯 What I Like
+
+Crafting intuitive user interfaces
+
+Exploring low-level programming and system design
+
+Writing clean and maintainable code
+
+Learning new paradigms and experimenting with different languages
+
+🌱 Currently
+
+I'm constantly improving my skills and working on various personal and academic projects.
+
+📫 Contact
+
+Feel free to reach out if you want to collaborate or just say hi!
+
+Thanks for visiting my profile! 😄
