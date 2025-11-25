@@ -30,5 +30,6 @@ I'm constantly improving my skills and working on various personal and academic 
 ## 📫 Contact
 
 Feel free to reach out if you want to collaborate or just say hi!
+✉️ - lois.hattterberger@epitech.eu
 
 Thanks for visiting my profile! 😄
